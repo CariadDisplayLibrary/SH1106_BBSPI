@@ -1,4 +1,4 @@
-README.md libraries/DisplayCore/SH1106_DSPI
-SH1106_DSPI.cpp libraries/DisplayCore/SH1106_DSPI
-SH1106_DSPI.h libraries/DisplayCore/SH1106_DSPI
-examples/ libraries/DisplayCore/SH1106_DSPI
+README.md libraries/DisplayCore/SH1106_BBSPI
+SH1106_BBSPI.cpp libraries/DisplayCore/SH1106_BBSPI
+SH1106_BBSPI.h libraries/DisplayCore/SH1106_BBSPI
+examples/ libraries/DisplayCore/SH1106_BBSPI
