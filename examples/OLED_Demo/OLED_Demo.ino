@@ -1,8 +1,7 @@
 #include <SH1106.h>
 #include <SH1106_BBSPI.h>
 
-DSPI0 tftSpi;
-SH1106_DSPI tft(2, 3, 4, 5, 6); //SCK, MOSI, CS, DC, RES
+SH1106_BBSPI tft(2, 3, 4, 5, 6); //SCK, MOSI, CS, DC, RES
 
 void setup() {
     tft.initializeDevice();
