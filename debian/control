@@ -7,10 +7,10 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
 Package: libdisplaycore-driver-sh1106-bbspi
-Section: main
 Architecture: all
 XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
+XBSC-Subsubgroup: OLED
 Depends: libdisplaycore-driver-sh1106
 Provides: SH1106-UL-BBSPI.h
 Description: SH1106 Bit-banged SPI
