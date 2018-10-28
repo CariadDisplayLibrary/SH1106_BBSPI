@@ -13,7 +13,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
 Depends: libdisplaycore-driver-sh1106
 Provides: SH1106-UL-BBSPI.h
-Description: SH1106 Bit-banged SPI library
+Description: SH1106 Bit-banged SPI
  This is the bit-banged SPI implementation of the SH1106 OLED driver.
 
 
