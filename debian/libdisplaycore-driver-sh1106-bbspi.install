@@ -1,4 +1,5 @@
+examples libraries/DisplayCore/SH1106_BBSPI
+library.json libraries/DisplayCore/SH1106_BBSPI
+library.properties libraries/DisplayCore/SH1106_BBSPI
 README.md libraries/DisplayCore/SH1106_BBSPI
-SH1106_BBSPI.cpp libraries/DisplayCore/SH1106_BBSPI
-SH1106_BBSPI.h libraries/DisplayCore/SH1106_BBSPI
-examples/ libraries/DisplayCore/SH1106_BBSPI
+src libraries/DisplayCore/SH1106_BBSPI
