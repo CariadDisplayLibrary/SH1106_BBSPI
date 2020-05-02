@@ -1,4 +1,4 @@
-Source: libdisplaycore-driver-sh1106-bbspi
+Source: libcariad-driver-sh1106-bbspi
 Section: main
 XBSC-Family: pic32
 Priority: extra
@@ -6,12 +6,13 @@ Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-driver-sh1106-bbspi
+Package: libcariad-driver-sh1106-bbspi
+Replaces: libdisplaycore-driver-sh1106-bbspi
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Drivers
 XBSC-Subsubgroup: OLED
-Depends: libdisplaycore-driver-sh1106
+Depends: libcariad-driver-sh1106
 Provides: SH1106-UL-BBSPI.h
 Description: SH1106 Bit-banged SPI
  This is the bit-banged SPI implementation of the SH1106 OLED driver.
